@@ -1,0 +1,44 @@
+{
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "codice_fiscale": "RSSMRA80A01H501L",
+    "sesso": "Maschio",
+    "eta": 40,
+    "data_prelievo": "2023-02-12",
+    "ora_prelievo": "10:30",
+    "luogo_prelievo": "centro territoriale",
+    "esami": [
+      {
+        "denominazione": "Emoglobina",
+        "data": "2023-02-12",
+        "ora": "11:30",
+        "codice_operatore": "123456789",
+        "strumenti": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "valore": 14.5,
+        "unita_di_misura": "g/dL",
+        "valore_minimo": 12,
+        "valore_massimo":16
+      },
+      {
+        "denominazione": "Glucosio",
+        "data": "2023-02-12",
+        "ora": "12:30",
+        "codice_operatore": "987654321",
+        "strumenti": [
+          0,
+          2,
+          3
+        ],
+        "valore": 95,
+        "unita_di_misura": "mg/dL",
+        "valore_minimo": 70,
+        "valore_massimo":99
+      }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+  "analisi": [
+    {
+      "nome": "emocromo",
+      "tempo_dopo_prelievo": 24,
+      "strumenti": [
+        {
+          "matricola": 1,
+          "operatori_abilitati": [
+            "123456789",
+            "987654321"
+          ]
+        },
+        {
+          "matricola": 2,
+          "operatori_abilitati": [
+            "111111111",
+            "222222222"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "glicemia",
+      "tempo_dopo_prelievo": 2,
+      "strumenti": [
+        {
+          "matricola": 3,
+          "operatori_abilitati": [
+            "333333333",
+            "444444444"
+          ]
+        },
+        {
+          "matricola": 4,
+          "operatori_abilitati": [
+            "555555555",
+            "666666666"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "trigliceridi",
+      "tempo_dopo_prelievo": 12,
+      "strumenti": [
+        {
+          "matricola": 5,
+          "operatori_abilitati": [
+            "777777777",
+            "888888888"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ferritina",
+      "tempo_dopo_prelievo": 72,
+      "strumenti": [
+        {
+          "matricola": 6,
+          "operatori_abilitati": [
+            "999999999",
+            "000000001"
+          ]
+        },
+        {
+          "matricola": 7,
+          "operatori_abilitati": [
+            "000000002",
+            "000000003"
+          ]
+        }
+      ]
+    }
+  ]
+}
