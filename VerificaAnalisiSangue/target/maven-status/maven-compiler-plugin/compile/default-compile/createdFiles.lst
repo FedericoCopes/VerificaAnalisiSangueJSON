@@ -1,3 +1,4 @@
-com\copesadamoli\verificaanalisisangue\VerificaAnalisiSangue.class
-com\copesadamoli\verificaanalisisangue\Esito.class
+com\copesadamoli\verificaanalisisangue\Strumenti.class
+com\copesadamoli\verificaanalisisangue\Analisi.class
 com\copesadamoli\verificaanalisisangue\Esame.class
+com\copesadamoli\verificaanalisisangue\Esito.class
