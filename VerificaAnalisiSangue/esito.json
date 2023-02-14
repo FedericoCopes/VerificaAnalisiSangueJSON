@@ -14,10 +14,7 @@
         "ora": "11:30",
         "codice_operatore": "123456789",
         "strumenti": [
-          0,
-          1,
-          2,
-          3,
+          6,
           4
         ],
         "valore": 14.5,
@@ -27,13 +24,12 @@
       },
       {
         "denominazione": "Glucosio",
-        "data": "2023-02-12",
+        "data": "2023-05-15",
         "ora": "12:30",
-        "codice_operatore": "987654321",
+        "codice_operatore": "67",
         "strumenti": [
-          0,
-          2,
-          3
+          1,
+          2
         ],
         "valore": 95,
         "unita_di_misura": "mg/dL",
